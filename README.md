@@ -1,8 +1,9 @@
 # model-comparison
 Model Comparison and Occam’s Razor
+Data Fitting, Covariance, and Confidence Levels
 
 University of San Francisco
-Physics 302 – Scientific Computation and Machine Learning Spring, 2020
+Physics 302 – Scientific Computation and Machine Learning
 Professor Xiaosheng Huang
 
 Unless there are clear and strong physical reasons not to, we nearly always choose the model with the least number of parameters that can describe the data just as well as any other model.
